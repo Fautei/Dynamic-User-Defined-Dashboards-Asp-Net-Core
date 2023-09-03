@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Dynamic_User_Defined_Dashboards
+build_property.RootNamespace = Dynamic_User_Defined_Dashboards
+build_property.ProjectDir = C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\
+build_property.RazorLangVersion = 2.1
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Element1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Element2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Element3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnQzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Element4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnQ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/Element5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnQ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Elements/ElementList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEVsZW1lbnRzXEVsZW1lbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/Template8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Dashboard/Templates/TemplateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRlbXBsYXRlc1xUZW1wbGF0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/Shared/_MainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Maxim/source/repos/Dynamic-User-Defined-Dashboards-Asp-Net-Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
