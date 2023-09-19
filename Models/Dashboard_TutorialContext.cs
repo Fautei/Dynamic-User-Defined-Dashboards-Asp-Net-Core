@@ -25,7 +25,7 @@ namespace Dynamic_User_Defined_Dashboards.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseMySQL("server=localhost;port=3306;user=root;password=12345;database=Dashboard_Tutorial");
+                optionsBuilder.UseSqlite("Data Source=db.sql");
             }
         }
 
@@ -37,11 +37,11 @@ namespace Dynamic_User_Defined_Dashboards.Models
             {
                 entity.ToTable("DashboardLinkedElements", "Dashboard_Tutorial");
 
-                entity.Property(e => e.Id).HasColumnType("int(11)");
+                entity.Property(e => e.Id);
 
-                entity.Property(e => e.DashboardId).HasColumnType("int(11)");
+                entity.Property(e => e.DashboardId);
 
-                entity.Property(e => e.ElementId).HasColumnType("int(11)");
+                entity.Property(e => e.ElementId);
 
                 entity.Property(e => e.Placement)
                     .IsRequired()
@@ -53,21 +53,21 @@ namespace Dynamic_User_Defined_Dashboards.Models
             {
                 entity.ToTable("Dashboards_Info", "Dashboard_Tutorial");
 
-                entity.Property(e => e.Id).HasColumnType("int(11)");
+                entity.Property(e => e.Id);
 
                 entity.Property(e => e.Name)
                     .IsRequired()
                     .HasMaxLength(255)
                     .IsUnicode(false);
 
-                entity.Property(e => e.TemplateId).HasColumnType("int(11)");
+                entity.Property(e => e.TemplateId);
             });
 
             modelBuilder.Entity<Elements>(entity =>
             {
                 entity.ToTable("Elements", "Dashboard_Tutorial");
 
-                entity.Property(e => e.Id).HasColumnType("int(11)");
+                entity.Property(e => e.Id);
 
                 entity.Property(e => e.Name)
                     .IsRequired()
@@ -79,9 +79,9 @@ namespace Dynamic_User_Defined_Dashboards.Models
             {
                 entity.ToTable("Templates", "Dashboard_Tutorial");
 
-                entity.Property(e => e.Id).HasColumnType("int(11)");
+                entity.Property(e => e.Id);
 
-                entity.Property(e => e.ElementsCount).HasColumnType("int(11)");
+                entity.Property(e => e.ElementsCount);
 
                 entity.Property(e => e.Name)
                     .IsRequired()

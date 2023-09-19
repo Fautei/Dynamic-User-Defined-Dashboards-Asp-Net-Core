@@ -6,19 +6,10 @@ C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Deb
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Dynamic User-Defined Dashboards.runtimeconfig.json
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Dynamic User-Defined Dashboards.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Dynamic User-Defined Dashboards.pdb
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Google.Protobuf.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\MySql.Data.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Remotion.Linq.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\System.Interactive.Async.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\obj\Debug\net7.0\Dynamic User-Defined Dashboards.csproj.AssemblyReference.cache
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\obj\Debug\net7.0\Dynamic User-Defined Dashboards.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\obj\Debug\net7.0\Dynamic User-Defined Dashboards.AssemblyInfoInputs.cache
@@ -361,3 +352,34 @@ C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Deb
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\obj\Debug\net7.0\Dynamic User-Defined Dashboards.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Maxim\source\repos\Dynamic-User-Defined-Dashboards-Asp-Net-Core\bin\Debug\net7.0\System.CodeDom.dll
